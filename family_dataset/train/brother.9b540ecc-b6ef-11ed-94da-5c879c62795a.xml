@@ -1,0 +1,26 @@
+<annotation>
+	<folder>brother</folder>
+	<filename>brother.9b540ecc-b6ef-11ed-94da-5c879c62795a.jpg</filename>
+	<path>C:\Users\danie\OneDrive\Desktop\University\Computer Science\Programming\TFOD\TFODCourse\Tensorflow\workspace\images\family\brother\brother.9b540ecc-b6ef-11ed-94da-5c879c62795a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brother</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>262</ymin>
+			<xmax>341</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

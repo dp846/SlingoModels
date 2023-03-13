@@ -1,0 +1,26 @@
+<annotation>
+	<folder>step</folder>
+	<filename>step.499eaf08-b6f0-11ed-a048-5c879c62795a.jpg</filename>
+	<path>C:\Users\danie\OneDrive\Desktop\University\Computer Science\Programming\TFOD\TFODCourse\Tensorflow\workspace\images\family\step\step.499eaf08-b6f0-11ed-a048-5c879c62795a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>step</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>97</ymin>
+			<xmax>371</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

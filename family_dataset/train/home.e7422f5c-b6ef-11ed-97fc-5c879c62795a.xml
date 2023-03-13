@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>home.e7422f5c-b6ef-11ed-97fc-5c879c62795a.jpg</filename>
+	<path>C:\Users\danie\OneDrive\Desktop\University\Computer Science\Programming\TFOD\TFODCourse\Tensorflow\workspace\images\train\home.e7422f5c-b6ef-11ed-97fc-5c879c62795a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>267</ymin>
+			<xmax>444</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

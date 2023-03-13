@@ -1,0 +1,26 @@
+<annotation>
+	<folder>your</folder>
+	<filename>your.73eb49fc-b6f2-11ed-ba75-5c879c62795a.jpg</filename>
+	<path>C:\Users\danie\OneDrive\Desktop\University\Computer Science\Programming\TFOD\TFODCourse\Tensorflow\workspace\images\family\your\your.73eb49fc-b6f2-11ed-ba75-5c879c62795a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>your</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>177</ymin>
+			<xmax>640</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>
