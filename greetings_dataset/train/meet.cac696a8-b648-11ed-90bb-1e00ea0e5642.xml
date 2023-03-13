@@ -1,0 +1,26 @@
+<annotation>
+	<folder>meet</folder>
+	<filename>meet.cac696a8-b648-11ed-90bb-1e00ea0e5642.jpg</filename>
+	<path>/Users/noraphatpingsuthiwong/Downloads/images/meet/meet.cac696a8-b648-11ed-90bb-1e00ea0e5642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>414</ymin>
+			<xmax>899</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>
