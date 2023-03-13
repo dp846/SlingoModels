@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good</folder>
+	<filename>good.d72185ff-b43d-11ed-b72b-2cf05d874400.jpg</filename>
+	<path>C:\Users\danie\Downloads\drive-download-20230226T150931Z-001\good\good.d72185ff-b43d-11ed-b72b-2cf05d874400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>216</ymin>
+			<xmax>554</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

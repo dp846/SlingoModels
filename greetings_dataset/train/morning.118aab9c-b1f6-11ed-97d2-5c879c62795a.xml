@@ -1,0 +1,26 @@
+<annotation>
+	<folder>morning</folder>
+	<filename>morning.118aab9c-b1f6-11ed-97d2-5c879c62795a.jpg</filename>
+	<path>C:\Users\danie\OneDrive\Desktop\University\Computer Science\Programming\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\morning\morning.118aab9c-b1f6-11ed-97d2-5c879c62795a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>morning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>356</ymin>
+			<xmax>358</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

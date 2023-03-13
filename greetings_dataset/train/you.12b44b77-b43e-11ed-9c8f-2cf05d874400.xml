@@ -1,0 +1,26 @@
+<annotation>
+	<folder>you</folder>
+	<filename>you.12b44b77-b43e-11ed-9c8f-2cf05d874400.jpg</filename>
+	<path>C:\Users\danie\Downloads\drive-download-20230226T150931Z-001\you\you.12b44b77-b43e-11ed-9c8f-2cf05d874400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>313</ymin>
+			<xmax>364</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

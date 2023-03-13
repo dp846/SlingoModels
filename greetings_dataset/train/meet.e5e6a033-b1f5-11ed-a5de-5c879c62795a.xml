@@ -1,0 +1,26 @@
+<annotation>
+	<folder>meet</folder>
+	<filename>meet.e5e6a033-b1f5-11ed-a5de-5c879c62795a.jpg</filename>
+	<path>C:\Users\danie\OneDrive\Desktop\University\Computer Science\Programming\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\meet\meet.e5e6a033-b1f5-11ed-a5de-5c879c62795a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>211</ymin>
+			<xmax>481</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

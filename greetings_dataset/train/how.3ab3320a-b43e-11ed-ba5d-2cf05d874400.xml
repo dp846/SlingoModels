@@ -1,0 +1,26 @@
+<annotation>
+	<folder>how</folder>
+	<filename>how.3ab3320a-b43e-11ed-ba5d-2cf05d874400.jpg</filename>
+	<path>C:\Users\danie\Downloads\drive-download-20230226T150931Z-001\how\how.3ab3320a-b43e-11ed-ba5d-2cf05d874400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>how</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>316</ymin>
+			<xmax>436</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

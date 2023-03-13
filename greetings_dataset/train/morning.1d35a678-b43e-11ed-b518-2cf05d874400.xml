@@ -1,0 +1,26 @@
+<annotation>
+	<folder>morning</folder>
+	<filename>morning.1d35a678-b43e-11ed-b518-2cf05d874400.jpg</filename>
+	<path>C:\Users\danie\Downloads\drive-download-20230226T150931Z-001\morning\morning.1d35a678-b43e-11ed-b518-2cf05d874400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>morning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>343</ymin>
+			<xmax>346</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>
