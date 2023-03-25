@@ -1,6 +1,7 @@
 # SlingoModels
 
-Storing deep learning, pre trained models and dataset used for British Sign Language recognition. 
+Storing deep learning, pre trained models and dataset used for British Sign Language recognition. Based on the tutorial from Nicholas Renotte: https://www.youtube.com/watch?v=yqkISICHH-U&ab_channel=NicholasRenotte
+
 To use, copy the raw Github link for the model.json file and .bin weights file to load it into a project.
 
 ![image](https://user-images.githubusercontent.com/117474143/224765806-57b59efc-ba37-4450-b243-e914fa014133.png)
