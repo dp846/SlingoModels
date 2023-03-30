@@ -2,7 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/117474143/224765114-b391e0ba-e697-4b4b-b74f-2fe55c594041.png)
 
-Storing deep learning, pre trained tensorflowJS exports of object detection models for British Sign Language recognition. Also contains the majority of the dataset of images used to train the 2 models for the 2 different categories 'Greetings' and 'Family'.
+Storing deep learning, pre trained tensorflowJS exports of object detection models for British Sign Language recognition. Also contains the majority of the dataset of images used to train the 2 models for the 2 different categories 'Greetings' and 'Family'. These models are used in a BSL educational platform called **Slingo** which was a University of Bath project completed as a team of 7 members. 
+
+### Slingo repository:   
+https://github.com/niccolosottile/Slingo
 
 ### Object detection model architecture is based on the tutorial from Nicholas Renotte:  
 https://www.youtube.com/watch?v=yqkISICHH-U&ab_channel=NicholasRenotte  
